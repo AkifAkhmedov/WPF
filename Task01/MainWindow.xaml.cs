@@ -1,5 +1,4 @@
-﻿
-using System.Windows;
+﻿using System.Windows;
 using Task01.ViewModels;
 
 namespace Task01

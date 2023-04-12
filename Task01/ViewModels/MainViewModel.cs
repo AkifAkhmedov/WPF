@@ -1,4 +1,5 @@
 ﻿
+using System.Collections.Generic;
 using Task01.Command;
 using Task01.Model;
 
@@ -6,6 +7,9 @@ namespace Task01.ViewModels
 {
     internal class MainViewModel
     {
+
+
+
         public MainModel Main { get; set; } = new();
         private RelayCommand? _showCommand;
         public RelayCommand ShowCommand
