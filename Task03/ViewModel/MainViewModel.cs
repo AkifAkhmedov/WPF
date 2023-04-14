@@ -38,7 +38,6 @@ namespace Task03.ViewModel
         public string Action = "";
         public string ReplaceSymbol = "";
 
-
         decimal plus = 0m;
 
         decimal PlusA = 0m;
@@ -56,11 +55,6 @@ namespace Task03.ViewModel
         decimal DivisionA = 0m;
         decimal DivisionB = 0m;
         decimal DivisionRes = 0m;
-
-
-
-
-
         string[] arr = { "0", "1", "2", "3", "4", "5", "6","7", "8", "9", }; 
         public void PressButton(Button button)
         {
