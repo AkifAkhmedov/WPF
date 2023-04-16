@@ -24,6 +24,7 @@
         </Style.Triggers>
     </Style>
     <Style TargetType="Button">
+         
         <Setter Property="VerticalAlignment" Value="Center"/>
         <Setter Property="HorizontalAlignment" Value="Center"/>
         <Setter Property="Margin" Value="10"/>
